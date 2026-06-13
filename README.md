@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Menaka%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Builder&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Menaka%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=CS%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Builder&amp;descAlignY=62&amp;descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Menaka+%F0%9F%91%8B;CS+Engineering+Student+%7C+Coimbatore%2C+India;Generative+AI+%2B+ML+%2B+Full+Stack+Developer;Building+AI-driven+apps+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I'm+Menaka+%F0%9F%91%8B;CS+Engineering+Student+%7C+Coimbatore%2C+India;Generative+AI+%2B+ML+%2B+Full+Stack+Developer;Building+AI-driven+apps+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Menaka11&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
-  <a href="mailto:menaka092006@gmail.com"><img src="https://img.shields.io/badge/Gmail-menaka092006-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/menakam"><img src="https://img.shields.io/badge/LinkedIn-Menaka%20M-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Menaka11&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views" alt="Profile Views" />
+  <a href="mailto:menaka092006@gmail.com"><img src="https://img.shields.io/badge/Gmail-menaka092006-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://linkedin.com/in/menakam"><img src="https://img.shields.io/badge/LinkedIn-Menaka%20M-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
 </p>
 
 ---
@@ -94,10 +94,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/Menaka11">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Menaka11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Menaka11&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" />
   </a>
   <a href="https://github.com/Menaka11">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menaka11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menaka11&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" />
   </a>
 </div>
 
@@ -106,7 +106,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Menaka11&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Menaka11&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -114,7 +114,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Menaka11&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Menaka11&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -122,7 +122,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Menaka11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Menaka11&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -201,10 +201,10 @@ print(me.motto())
   <i>✨ "Build things that make a difference" ✨</i>
   <br/><br/>
   <a href="mailto:menaka092006@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-menaka092006%40gmail.com-70A5FD?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Let%27s%20Connect-menaka092006%40gmail.com-70A5FD?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 </p>
