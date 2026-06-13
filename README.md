@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Menaka%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=CS%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Builder&amp;descAlignY=62&amp;descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Menaka%20L%20I&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20AI%20Enthusiastic%20%7C%20Building%20Things%20That%20Matter&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
@@ -119,13 +119,6 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Menaka11&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 💼 Work Experience
 
